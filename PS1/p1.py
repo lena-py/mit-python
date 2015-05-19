@@ -1,5 +1,8 @@
 __author__ = 'lena'
-
+# purpose
+"""
+Write a program to calculate the total amount paid on a credit card balance after 12 months
+"""
 # equations
 """
 Minimum monthly payment = Minimum monthly payment rate x Balance (Minimum monthly payment gets split into interest paid
